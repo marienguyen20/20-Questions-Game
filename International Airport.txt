@@ -1,0 +1,35 @@
+Is it one of the international airport in Asia?
+	Is it in East Asia?
+		Is it in China
+			Beijing
+			Is it in Japan?
+				Narita
+				Is it in South Korea?
+					Incheon
+					Taiwan
+		Is it in South Asia?
+			India
+			Qatar 
+	Is it in America?
+		Is it in Massachusets?
+			Boston Logan
+			Is it in New York?
+				John F.Kenned
+				Is it in Texas?
+					Dallas/Fort Worth
+					Is it in California?
+						Los Angeles
+						Is it in Nevada?
+							McCarran
+							Washington Dulles
+		Is it in Europe?
+			Is it in UK?
+				London Heathrow
+				Is it in Central Europe?
+					Frankfurt
+					Is it in Western Europe?
+						Amsterdam Schiphol
+						Is it in Southern Europe?
+							Barcelona
+							Keflavik
+			Auckland
