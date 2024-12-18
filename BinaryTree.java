@@ -1,7 +1,5 @@
 /**
  * BinaryTree is the interface for a basic binary tree.
- *
- * @author ponbarry
  */
 public interface BinaryTree<T> {
 
@@ -20,7 +18,7 @@ public interface BinaryTree<T> {
 	/**
 	 * Test if the tree is empty.
 	 *
-	 * @return true if tree has no data.
+	 * @return true if the tree has no data.
 	 */
 	public boolean isEmpty();
 
