@@ -1,6 +1,5 @@
 /**
  * Example test file of how to use GameTree
- * @author Tayloe
  */
 public class GameTreeTest {
     public static void main(String[] args){
