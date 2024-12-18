@@ -1,7 +1,6 @@
 /**
  * GameTreeNode.java implements a basic binary tree node,
  * with data and pointers to left and right children.
- * @author Tayloe
  */
 
 public class GameTreeNode implements BinaryTreeNode<String> {
