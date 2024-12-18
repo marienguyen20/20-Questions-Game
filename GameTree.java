@@ -5,8 +5,6 @@ import java.util.Scanner;
 
 /**
  * GameTree.java implements the binary tree interface.
- *
- * @author Tayloe
  */
 
 public class GameTree implements BinaryTree<String> {
